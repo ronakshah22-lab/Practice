@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/profile.php
-Sitemap: https://freewebspace22.wordpress.com/sitemap.xml
